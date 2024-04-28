@@ -1,0 +1,70 @@
+#title {
+    text-align: center;
+    background-color: bisque;
+    color:blueviolet;
+  }
+  body {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
+  
+  #nav-bar {
+    position: relative;
+    top: 10cm;
+  }
+  
+  #description {
+    text-align: justify;
+    font-size: larger;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+  }
+  #table-head {
+    color: rgb(253, 17, 17);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-shadow: 1px 1px 1px black;
+   
+    background-color: #f3a227d8;
+  }
+  
+  #t-body {
+    color: black;
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #FFEBCD;
+  }
+  
+  #event-btn-next {
+    background-color: darkgray;
+    color: black;
+  }
+  #event-btn-next:hover {
+    background-color: gray;
+  }
+  
+  #event-btn-pre {
+    background-color: darkgray;
+    color: black;
+  }
+  #event-btn-pre:hover {
+    background-color: gray;
+  }
+  
+  #event-btn-first {
+    background-color: rgba(105, 105, 105, 0.829);
+    color: black;
+  }
+  #event-btn-first:hover {
+    background-color: darkgrey;
+  }
+  
+  #event-btn-last {
+    background-color: rgba(105, 105, 105, 0.829);
+    color: black;
+  }
+  #event-btn-last:hover {
+    background-color: darkgrey;
+  }
